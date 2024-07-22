@@ -1,0 +1,2 @@
+# RandomPalette
+HTML, CSS, JavaScript
